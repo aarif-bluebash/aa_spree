@@ -1,0 +1,140 @@
+polaris@polaris:~/training/aarif_spree$ rvm list
+
+rvm rubies
+
+   ruby-2.3.0 [ x86_64 ]
+   ruby-2.3.1 [ x86_64 ]
+=* ruby-2.4.2 [ x86_64 ]
+   ruby-2.5.1 [ x86_64 ]
+
+# => - current
+# =* - current && default
+#  * - default
+
+polaris@polaris:~/training/aarif_spree$ rvm use ruby-2.5.1
+Using /home/polaris/.rvm/gems/ruby-2.5.1
+polaris@polaris:~/training/aarif_spree$ rvm list
+
+rvm rubies
+
+   ruby-2.3.0 [ x86_64 ]
+   ruby-2.3.1 [ x86_64 ]
+ * ruby-2.4.2 [ x86_64 ]
+=> ruby-2.5.1 [ x86_64 ]
+
+# => - current
+# =* - current && default
+#  * - default
+
+polaris@polaris:~/training/aarif_spree$ rvm create gemset arif
+Unrecognized command line argument: create
+Run `rvm help` to see usage information
+polaris@polaris:~/training/aarif_spree$ rvm create gemsets arif
+Unrecognized command line argument: create
+Run `rvm help` to see usage information
+polaris@polaris:~/training/aarif_spree$ rvm use ruby-2.5.1@proejct_1
+ruby-2.5.1 - #gemset created /home/polaris/.rvm/gems/ruby-2.5.1@proejct_1
+ruby-2.5.1 - #generating proejct_1 wrappers............
+Using /home/polaris/.rvm/gems/ruby-2.5.1 with gemset proejct_1
+polaris@polaris:~/training/aarif_spree$ rvm use ruby-2.5.1@proejct_2
+ruby-2.5.1 - #gemset created /home/polaris/.rvm/gems/ruby-2.5.1@proejct_2
+ruby-2.5.1 - #generating proejct_2 wrappers............
+Using /home/polaris/.rvm/gems/ruby-2.5.1 with gemset proejct_2
+polaris@polaris:~/training/aarif_spree$ rvm list
+
+rvm rubies
+
+   ruby-2.3.0 [ x86_64 ]
+   ruby-2.3.1 [ x86_64 ]
+ * ruby-2.4.2 [ x86_64 ]
+=> ruby-2.5.1 [ x86_64 ]
+
+# => - current
+# =* - current && default
+#  * - default
+
+polaris@polaris:~/training/aarif_spree$ rvm list gemsets
+
+rvm gemsets
+
+   ruby-2.3.0 [ x86_64 ]
+   ruby-2.3.0@global [ x86_64 ]
+   ruby-2.3.0@stay [ x86_64 ]
+   ruby-2.3.1 [ x86_64 ]
+   ruby-2.3.1@art-deco [ x86_64 ]
+   ruby-2.3.1@global [ x86_64 ]
+   ruby-2.3.1@medshop [ x86_64 ]
+   ruby-2.3.1@med-shop-express [ x86_64 ]
+   ruby-2.3.1@sebamedusa [ x86_64 ]
+   ruby-2.4.2 [ x86_64 ]
+   ruby-2.4.2@apcanaspree [ x86_64 ]
+   ruby-2.4.2@gallery [ x86_64 ]
+   ruby-2.4.2@global [ x86_64 ]
+   ruby-2.5.1 [ x86_64 ]
+   ruby-2.5.1@bravissimi_1 [ x86_64 ]
+   ruby-2.5.1@^C [ x86_64 ]
+   ruby-2.5.1@global [ x86_64 ]
+   ruby-2.5.1@proejct_1 [ x86_64 ]
+=> ruby-2.5.1@proejct_2 [ x86_64 ]
+
+polaris@polaris:~/training/aarif_spree$ rvm use ruby-2.5.1@proejct_1
+Using /home/polaris/.rvm/gems/ruby-2.5.1 with gemset proejct_1
+polaris@polaris:~/training/aarif_spree$ rvm list gemsets
+
+rvm gemsets
+
+   ruby-2.3.0 [ x86_64 ]
+   ruby-2.3.0@global [ x86_64 ]
+   ruby-2.3.0@stay [ x86_64 ]
+   ruby-2.3.1 [ x86_64 ]
+   ruby-2.3.1@art-deco [ x86_64 ]
+   ruby-2.3.1@global [ x86_64 ]
+   ruby-2.3.1@medshop [ x86_64 ]
+   ruby-2.3.1@med-shop-express [ x86_64 ]
+   ruby-2.3.1@sebamedusa [ x86_64 ]
+   ruby-2.4.2 [ x86_64 ]
+   ruby-2.4.2@apcanaspree [ x86_64 ]
+   ruby-2.4.2@gallery [ x86_64 ]
+   ruby-2.4.2@global [ x86_64 ]
+   ruby-2.5.1 [ x86_64 ]
+   ruby-2.5.1@bravissimi_1 [ x86_64 ]
+   ruby-2.5.1@^C [ x86_64 ]
+   ruby-2.5.1@global [ x86_64 ]
+=> ruby-2.5.1@proejct_1 [ x86_64 ]
+   ruby-2.5.1@proejct_2 [ x86_64 ]
+-------------------------------------------------------------------------
+========================================================================================
+========================================================================================
+
+
+polaris@polaris:~/training/aarif_spree$ rails c
+[WARNING] You are not setting Devise.secret_key within your application!
+You must set this in config/initializers/devise.rb. Here's an example:
+ 
+Devise.secret_key = "a811366471e83edbce242b14c0a60dabd9acaafd375e14d432761703ce738ab8887344fb303f21f21e11b9261865691af284"
+Loading development environment (Rails 5.2.1)
+2.4.2 :001 > Spree::user
+NoMethodError: undefined method `user' for Spree:Module
+   from (irb):1
+2.4.2 :002 > Spree::User
+ => Spree::User(id: integer, encrypted_password: string, password_salt: string, email: string, remember_token: string, persistence_token: string, reset_password_token: string, perishable_token: string, sign_in_count: integer, failed_attempts: integer, last_request_at: datetime, current_sign_in_at: datetime, last_sign_in_at: datetime, current_sign_in_ip: string, last_sign_in_ip: string, login: string, ship_address_id: integer, bill_address_id: integer, authentication_token: string, unlock_token: string, locked_at: datetime, reset_password_sent_at: datetime, created_at: datetime, updated_at: datetime, spree_api_key: string, remember_created_at: datetime, deleted_at: datetime, confirmation_token: string, confirmed_at: datetime, confirmation_sent_at: datetime) 
+2.4.2 :003 > Spree::User.last
+  Spree::User Load (0.9ms)  SELECT  "spree_users".* FROM "spree_users" WHERE "spree_users"."deleted_at" IS NULL ORDER BY "spree_users"."id" DESC LIMIT ?  [["LIMIT", 1]]
+ => #<Spree::User id: 1, email: "\e[badmin@admin.com", persistence_token: nil, perishable_token: nil, last_request_at: nil, login: "\e[Badmin@admin.com", ship_address_id: nil, bill_address_id: nil, authentication_token: nil, created_at: "2018-09-29 09:36:18", updated_at: "2018-09-29 09:36:18", spree_api_key: "934473f06f2205bcbfc08a878ad9c8baf6ee65ad5c278b98", deleted_at: nil> 
+2.4.2 :004 > a=Spree::User.last
+  Spree::User Load (0.4ms)  SELECT  "spree_users".* FROM "spree_users" WHERE "spree_users"."deleted_at" IS NULL ORDER BY "spree_users"."id" DESC LIMIT ?  [["LIMIT", 1]]
+ => #<Spree::User id: 1, email: "\e[badmin@admin.com", persistence_token: nil, perishable_token: nil, last_request_at: nil, login: "\e[Badmin@admin.com", ship_address_id: nil, bill_address_id: nil, authentication_token: nil, created_at: "2018-09-29 09:36:18", updated_at: "2018-09-29 09:36:18", spree_api_key: "934473f06f2205bcbfc08a878ad9c8baf6ee65ad5c278b98", deleted_at: nil> 
+2.4.2 :005 > a.email ='aarif@bluebash.co'
+ => "aarif@bluebash.co" 
+2.4.2 :006 > a.save
+   (0.3ms)  begin transaction
+  Spree::User Exists (0.6ms)  SELECT  1 AS one FROM "spree_users" WHERE "spree_users"."email" = ? AND "spree_users"."deleted_at" IS NULL AND "spree_users"."id" != ? LIMIT ?  [["email", "aarif@bluebash.co"], ["id", 1], ["LIMIT", 1]]
+  Spree::User Update (1.3ms)  UPDATE "spree_users" SET "email" = ?, "updated_at" = ? WHERE "spree_users"."id" = ?  [["email", "aarif@bluebash.co"], ["updated_at", "2018-09-29 09:50:07.981997"], ["id", 1]]
+   (175.9ms)  commit transaction
+ => true 
+2.4.2 :007 > exit
+polaris@polaris:~/training/aarif_spree$ rvm 
+
+--------------------------------------=================================================================
+
+

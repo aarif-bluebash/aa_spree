@@ -1,0 +1,1000 @@
+ 1006  git stash
+ 1007  git branch
+ 1008  git checkout cannabis/96-integrate-volume-pricing-across-category
+ 1009  git stash list
+ 1010  git show stash@{1}
+ 1011  git stash apply  stash@{1}
+ 1012  rails s
+ 1013  cola
+ 1014  rails s
+ 1015  cola
+ 1016  cola
+ 1017  rails c
+ 1018  cd ..
+ 1019  cd physician-labs-shops
+ 1020  git branch
+ 1021  git stash
+ 1022  git fetch origin feature/sebamed/facebook-messenger
+ 1023  cd apps/
+ 1024  ls
+ 1025  cd alex/
+ 1026  ls
+ 1027  cd sebamed
+ 1028  git branch
+ 1029  git stash
+ 1030  git fetch origin feature/facebook-messenger
+ 1031  cd apps/
+ 1032  ls
+ 1033  cd alex/
+ 1034  ls
+ 1035  ifcongif
+ 1036  ifcongig
+ 1037  ifconfig
+ 1038  scp /home/polaris/apps/ deploy@192.168.1.10:/home/rockrock/.ssh/ssh_neew
+ 1039  scp deploy@192.168.1.10:/home/rockrock/.ssh/ssh_neew /home/polaris/apps/
+ 1040  scp rockrock@192.168.1.10:/home/rockrock/.ssh/ssh_neew /home/polaris/apps/
+ 1041  scp rockrock@192.168.1.10:/home/rockrock/.ssh/ssh_neew.tar.gz /home/polaris/apps/
+ 1042  cd sebamed
+ 1043  cd
+ 1044  clear
+ 1045  cd apps/
+ 1046  cd alex/
+ 1047  cd physician-labs-shops
+ 1048  git branch
+ 1049  git checkout sebamed
+ 1050  git remote -v
+ 1051  git branch
+ 1052  git fetch origin feature/facebook-messenger
+ 1053  ssh add
+ 1054  ssh/add
+ 1055  ssh-add
+ 1056  git fetch origin feature/facebook-messenger
+ 1057  git branch
+ 1058  git status
+ 1059  rm -rf Gemfile_BACKUP_18770
+ 1060  cola
+ 1061  git config user.name
+ 1062  git branch
+ 1063  git fetch
+ 1064  sudo service ssh restart
+ 1065  sudo service ssh reload
+ 1066  ssh-add
+ 1067  git checkout production
+ 1068  git pull origin productio
+ 1069  git pull origin production
+ 1070  git 
+ 1071  git fetch origin feature/facebook-messenger
+ 1072  ssh-add
+ 1073  git fetch origin feature/facebook-messenger
+ 1074  ssh-add
+ 1075  git fetch origin feature/facebook-messenger
+ 1076  ssh-add
+ 1077  git fetch origin feature/facebook-messenger
+ 1078  git branch
+ 1079  git status
+ 1080  git fetch origin feature/facebook-messenger
+ 1081  ssh-add
+ 1082  git fetch origin feature/facebook-messenger
+ 1083  eval `ssh-agent`
+ 1084  git fetch origin feature/facebook-messenger
+ 1085  git remote -v
+ 1086  git remote set-url origin git@github.com:Physicianlaboratories/sebamed.git
+ 1087  git fetch origin feature/facebook-messenger
+ 1088  ssh-add
+ 1089  git fetch origin feature/facebook-messenger
+ 1090  git remote -v
+ 1091  git remote rm origin 
+ 1092  git remote -v
+ 1093  git remote add origin git@github.com:Physicianlaboratories/sebamed.git
+ 1094  git remote -v
+ 1095  git fetch origin feature/facebook-messenger
+ 1096  git log
+ 1097  git reflog
+ 1098  git branch
+ 1099  git pull origin production 
+ 1100  git remote set-url origin git@github.com:Physicianlaboratories/sebamed.git
+ 1101  eval "$(ssh-agent -s)"
+ 1102  sudo service ssh status
+ 1103  sudo service ssh start
+ 1104  sudo service ssh status
+ 1105  cd
+ 1106  cd .ssh
+ 1107  ls
+ 1108  cd 
+ 1109  sudo service ssh stop
+ 1110  sudo service ssh start
+ 1111  sudo service ssh status
+ 1112  systemctl status ssh.service
+ 1113  /etc/init.d
+ 1114  cd /etc/init.d
+ 1115  ls
+ 1116  ssh status
+ 1117  systemctl status sshd.service
+ 1118  systemctl enable sshd.service
+ 1119  systemctl start sshd.service
+ 1120  ssh-keygen 
+ 1121  ssh-add
+ 1122  systemctl start sshd.service
+ 1123  eval "$(ssh-agent -s)"
+ 1124  sudo apt-get install openssh-server
+ 1125  ssh-add
+ 1126  systemctl start sshd.service
+ 1127  systemctl status sshd.service
+ 1128  cd
+ 1129  cd apps/
+ 1130  lls
+ 1131  cdls
+ 1132  ls
+ 1133  cd alex/
+ 1134  ls
+ 1135  cd sebamed
+ 1136  ls
+ 1137  git branch
+ 1138  git pull origin production
+ 1139  ssh-add
+ 1140  git branch
+ 1141  git pull origin production
+ 1142  systemctl status sshd.service
+ 1143  git remote -v
+ 1144  git remote 
+ 1145  git log
+ 1146  clear
+ 1147  git branch
+ 1148  sudo
+ 1149  sudo su
+ 1150  ls
+ 1151  cd apps
+ 1152  ls apps
+ 1153  cd
+ 1154  ls
+ 1155  cd
+ 1156  ls
+ 1157  cd apps
+ 1158  ls
+ 1159  cd alex
+ 1160  cd..
+ 1161  cd ..
+ 1162  ls
+ 1163  cd Desktop
+ 1164  ls
+ 1165  cd ..
+ 1166  cd..
+ 1167  cd ..
+ 1168  ls
+ 1169  cd ..
+ 1170  s
+ 1171  ls
+ 1172  cd home
+ 1173  ls
+ 1174  cd polaris
+ 1175  ls
+ 1176  cd Downloads
+ 1177  mkdir this
+ 1178  ls
+ 1179  mkdir new folder
+ 1180  ls
+ 1181  mkdir tasks
+ 1182  ls
+ 1183  cd ..
+ 1184  ls
+ 1185  cp test Downloads
+ 1186  cp aa2 Downloads
+ 1187  cp aa2 Desktop
+ 1188  ls
+ 1189  cd Desktop
+ 1190  ls
+ 1191  cp aa2 Downloads
+ 1192  cd ..
+ 1193  ls
+ 1194  cd Music
+ 1195  ls
+ 1196  cp asd Downloads
+ 1197  cp asd.txt Music
+ 1198  cd
+ 1199  ls
+ 1200  mkdir traning
+ 1201  cd traning/
+ 1202  ls
+ 1203  nano 1.rb
+ 1204  subl .
+ 1205  ls
+ 1206  ruby 1.rb
+ 1207  cd
+ 1208  cd traning/
+ 1209  subl 
+ 1210  nano 1.rb 
+ 1211  ruby --version
+ 1212  nano 1.rb
+ 1213  ls
+ 1214  cd ..
+ 1215  ls
+ 1216  polaris
+ 1217  ls
+ 1218  cd ..
+ 1219  ls
+ 1220  cd bin
+ 1221  ls
+ 1222  cd ..
+ 1223  ls
+ 1224  cd ..
+ 1225  ls
+ 1226  cd home
+ 1227  cd polaris
+ 1228  cd ..
+ 1229  ls
+ 1230  cd traning
+ 1231  cd ..
+ 1232  cd home
+ 1233  ls
+ 1234  cd polaris
+ 1235  ls
+ 1236  cd traning
+ 1237  ruby 3.rb
+ 1238  ls
+ 1239  ruby 3.rb
+ 1240  puts ls
+ 1241  ruby 3.rb
+ 1242  nano 3.rb
+ 1243  ruby 3.rb
+ 1244  nano 3.rb
+ 1245  ruby 3.rb
+ 1246  ruby 4.rb
+ 1247  ls
+ 1248  cd traning
+ 1249  ruby d2_1.rb
+ 1250  ls
+ 1251  ruby d2_1.rb
+ 1252  ls
+ 1253  cd traning
+ 1254  ls
+ 1255  ruby d2_1.rb
+ 1256  ls
+ 1257  cd traning
+ 1258  ls
+ 1259  ruby d2_1.rb
+ 1260  ls
+ 1261  cd traning
+ 1262  ruby d3_1.rb
+ 1263  irb
+ 1264  irs
+ 1265  ls
+ 1266  cd traning
+ 1267  ls
+ 1268  irs
+ 1269  irb
+ 1270  ls
+ 1271  cd traning
+ 1272  ls
+ 1273  ruby d3_1.rb
+ 1274  cd traning
+ 1275  ruby d3_1.rb
+ 1276  ibs
+ 1277  irs
+ 1278  rbs
+ 1279  irb
+ 1280  ls
+ 1281  cd traning
+ 1282  ls
+ 1283  ruby d3_1.rb
+ 1284  def mtdarry  
+ 1285  end  
+ 1286  # using parallel assignment to collect the return value  
+ 1287  num, square = mtdarry  
+ 1288  puts num  
+ 1289  puts square  cls
+ 1290  ls
+ 1291  ruby d3_1.rb
+ 1292  irb
+ 1293  ls
+ 1294  cd traning
+ 1295  ruby d3_1.rb
+ 1296  irb
+ 1297  cd traning/
+ 1298  ls
+ 1299  ruby symbols.rb 
+ 1300  ruby d4_1.rb
+ 1301  ruby d3_1.rb
+ 1302  ruby d4_1.rb
+ 1303  ls
+ 1304  cd traning
+ 1305  ls
+ 1306  d5_1.rb
+ 1307  ruby d5_1.rb
+ 1308  ruby d5_1.rb 5
+ 1309  ruby d5_1.rb 6
+ 1310  ruby d5_1.rb 
+ 1311  irb
+ 1312  ls
+ 1313  cd traning
+ 1314  ls
+ 1315  ruby d5_1.rb
+ 1316  ruby d5_1.rb3
+ 1317  ruby d5_1.rb
+ 1318  cd traning
+ 1319  ruby d5_1.rb
+ 1320  2
+ 1321  5
+ 1322  ruby d5_1.rb
+ 1323  irb
+ 1324  cd traning
+ 1325  ls
+ 1326  ruby d5_1.rb
+ 1327  ruby d5_1.rb
+ 1328  ruby d6_1.rb
+ 1329  irb
+ 1330  LS
+ 1331  ls
+ 1332  cd Traning
+ 1333  cd traning
+ 1334  ruby d6_1.rb
+ 1335  ruby d5_1.rb
+ 1336  ruby d6_1.rb
+ 1337  cd traning
+ 1338  ruby d6_1.rb
+ 1339  irb
+ 1340  cd traning
+ 1341  ruby d6_1.rb
+ 1342  gem install bundler
+ 1343  ls
+ 1344  xs o
+ 1345  cd apps/
+ 1346  ls
+ 1347  cd ..
+ 1348  cd
+ 1349  cd traning/
+ 1350  ls
+ 1351  ruby -v
+ 1352  sqlite3 --version
+ 1353  rails new blog
+ 1354  cd blog
+ 1355  bin/rails server
+ 1356  ls
+ 1357  bin/rails generate controller Welcome index
+ 1358  ls
+ 1359  cd app
+ 1360  cd controllers
+ 1361  cd ..
+ 1362  ls
+ 1363  cd views
+ 1364  cd welcome
+ 1365  nano index.html.erb
+ 1366  ls
+ 1367  cd ..
+ 1368  ls
+ 1369  cd config/routes.rb
+ 1370  cd config
+ 1371  ls
+ 1372  cd routes.rb
+ 1373  nano routes.rb
+ 1374  bin/rails server
+ 1375  ls
+ 1376  cd ..
+ 1377  ls
+ 1378  cd blog
+ 1379  ls
+ 1380  cd bin
+ 1381  rails server
+ 1382  ls
+ 1383  cd ..
+ 1384  ls
+ 1385  cd config
+ 1386  ls
+ 1387  nano routes.rb
+ 1388  cd ..
+ 1389  ls
+ 1390  cd bin
+ 1391  ls
+ 1392  cd rails
+ 1393  rails routes
+ 1394  rails generate controller Articles
+ 1395  ls
+ 1396  cd ..
+ 1397  ls
+ 1398  cd app
+ 1399  cd controllers
+ 1400  ls
+ 1401  nano articles_controller.rb
+ 1402  cd ..
+ 1403  cd ../..
+ 1404  ls
+ 1405  cd blog/
+ 1406  subl .
+ 1407  cd ..
+ 1408  ls
+ 1409  cd blog
+ 1410  ls
+ 1411  cd bin
+ 1412  ls
+ 1413  rail server
+ 1414  rails server
+ 1415  $ bin/rails generate model Article title:string text:text
+ 1416  bin/rails generate model Article title:string text:text
+ 1417  rails server
+ 1418  rails generate model Article title:string text:text
+ 1419  rails db:migrate
+ 1420  rails server
+ 1421  /rails routes
+ 1422  cd ..
+ 1423  cd bin
+ 1424  rails routes
+ 1425  rails server
+ 1426  cd home
+ 1427  cd
+ 1428  ls
+ 1429  cd traning
+ 1430  cd blog
+ 1431  ls
+ 1432  cd bin
+ 1433  rails db
+ 1434  ls
+ 1435  cd traning
+ 1436  ls
+ 1437  cd blog
+ 1438  ls
+ 1439  rails server
+ 1440  cd ..
+ 1441  ls
+ 1442  cd ..
+ 1443  ls
+ 1444  cd bin
+ 1445  cd ..
+ 1446  ls
+ 1447  cd bin
+ 1448  rail routes
+ 1449  rails routes
+ 1450  rails server
+ 1451  ls
+ 1452  cd
+ 1453  cd traning
+ 1454  cd blog/
+ 1455  rails server
+ 1456  rails s
+ 1457  cd ..
+ 1458  ls
+ 1459  cd blog
+ 1460  ls
+ 1461  cd bin
+ 1462  rails generate model Comment commenter:string body:text article:references
+ 1463  rails db:migrate
+ 1464  /rails generate controller Comments
+ 1465  rails generate controller Comments
+ 1466  db : setup
+ 1467  ..
+ 1468  cd 
+ 1469  cd home
+ 1470  cd ..
+ 1471  ls
+ 1472  cd ..
+ 1473  ls
+ 1474  cd bin
+ 1475  ls
+ 1476  ../..
+ 1477  ..
+ 1478  cd ..
+ 1479  ls
+ 1480  cd..
+ 1481  cd ..
+ 1482  cd home
+ 1483  ls
+ 1484  cd polaris
+ 1485  ls
+ 1486  cd traning
+ 1487  ls
+ 1488  cd  blog
+ 1489  ls
+ 1490  cd docx
+ 1491  ls
+ 1492  ruby d9_1.rb
+ 1493  cd  bin
+ 1494  cd home
+ 1495  cd 
+ 1496  ls
+ 1497  cd traning
+ 1498  ls
+ 1499  cd ..
+ 1500  ls
+ 1501  cd ..
+ 1502  ls
+ 1503  cd bin
+ 1504  rails c
+ 1505  ls
+ 1506  cd traning
+ 1507  ls
+ 1508  cd blog
+ 1509  rail s
+ 1510  ls
+ 1511  rails s
+ 1512  irb
+ 1513  cd ..
+ 1514  cd
+ 1515  ls
+ 1516  cd apps/
+ 1517  ls
+ 1518  cd SC-AV
+ 1519  ls
+ 1520  subl .
+ 1521  cd ..
+ 1522  ls
+ 1523  cd ..
+ 1524  ls
+ 1525  cd traning
+ 1526  ls
+ 1527  cd blog
+ 1528  ls
+ 1529  rails s
+ 1530  ruby -v
+ 1531  rails -v
+ 1532  bundle -v
+ 1533  gem -v
+ 1534  l
+ 1535  cd traning
+ 1536  ls
+ 1537  cd blog
+ 1538  rails s
+ 1539  cd
+ 1540  cd traning
+ 1541  cd blog/
+ 1542  ls
+ 1543  rails -v
+ 1544  bundle install
+ 1545  rails g devise:install
+ 1546  rails generate devise:install
+ 1547  cd ..
+ 1548  rails generate devise:install
+ 1549  cd
+ 1550  ls
+ 1551  cd
+ 1552  rails generate devise:install
+ 1553  cd traning
+ 1554  rails generate devise:install
+ 1555  cd blog
+ 1556  cd
+ 1557  cd traning
+ 1558  cd blog
+ 1559  bundle install
+ 1560  rails generate devise:install
+ 1561  cd ..
+ 1562  rails generate devise:install
+ 1563  ls
+ 1564  cd blog
+ 1565  ls
+ 1566  bundle
+ 1567  rails generate devise:install
+ 1568  rails generate --help
+ 1569  rails generate devise MODEL
+ 1570  ls
+ 1571  cd bin
+ 1572  rails generate devise MODEL
+ 1573  cd .
+ 1574  ls
+ 1575  cd ..
+ 1576  ls
+ 1577  rails generate devise MODEL
+ 1578  bundle
+ 1579  rails generate devise MODEL
+ 1580  rails generate devise:install
+ 1581  rails generate devise MODEL
+ 1582  cd
+ 1583  cd traning
+ 1584  cd blog
+ 1585  bundle install
+ 1586  rails generate devise:install
+ 1587  rails generate devise Admin
+ 1588  cd traning/
+ 1589  cd blog/
+ 1590  rails generate devise Admin
+ 1591  rails generate devise Armin
+ 1592  rails generate devise Model
+ 1593  rails generate devise ADMIN
+ 1594  rails generate devise User
+ 1595  bundle
+ 1596  rails generate devise User
+ 1597  ls
+ 1598  rails generate devise User
+ 1599  rails d devise User
+ 1600  rails s
+ 1601  rails generate devise User
+ 1602  rails d devise Model
+ 1603  bundle
+ 1604  ls
+ 1605  rails D
+ 1606  rails  devise User
+ 1607  rails g devise User
+ 1608  cd ..
+ 1609  cd blog
+ 1610  subl .
+ 1611  rails generate devise:views
+ 1612  rails s
+ 1613  cd devise_app/
+ 1614  rails s
+ 1615  rails generate devise:views
+ 1616  rails s
+ 1617  cd
+ 1618  cd traning/
+ 1619  rails new devise_app
+ 1620  ls
+ 1621  cd devise_app/
+ 1622  subl .
+ 1623  bundle install
+ 1624  rails generate devise:install
+ 1625  rails g devise:views
+ 1626  rails generate devise:install
+ 1627  rails generate devise Admin
+ 1628  rails db:migrate
+ 1629  rails generate controller Welcome index
+ 1630  rails s
+ 1631  cd
+ 1632  cd traning/
+ 1633  cd blog/
+ 1634  ls
+ 1635  subl .
+ 1636  $ rails d devise:install
+ 1637  rails s
+ 1638  rails db:migrate
+ 1639  bundle
+ 1640  rails g kaminari:config
+ 1641  rails c
+ 1642  cd ..
+ 1643  cd devise_app/
+ 1644  subl .
+ 1645  cd
+ 1646  cd traning/
+ 1647  cd blog/
+ 1648  rails s
+ 1649  cd ..
+ 1650  cd devise_app/
+ 1651  ls
+ 1652  subl .
+ 1653  cd
+ 1654  cd home
+ 1655  ls
+ 1656  cd
+ 1657  ls
+ 1658  cd Documents/
+ 1659  ls
+ 1660  cd ..
+ 1661  home
+ 1662  cd ..
+ 1663  ls
+ 1664  cd ..
+ 1665  ls
+ 1666  cd ..
+ 1667  --skip-spring
+ 1668  skip-spring
+ 1669  --skip-spring
+ 1670  cls
+ 1671  ls
+ 1672  cd polaris/
+ 1673  cd traning/
+ 1674  ls
+ 1675  cd blog
+ 1676  ls
+ 1677  rails g migration add_coloumn_to_articles
+ 1678  rake db:migrate
+ 1679  rails c
+ 1680  rake db:migrate
+ 1681  rake db:create
+ 1682  rake db:migrate
+ 1683  rails s
+ 1684  cd
+ 1685  cd blog/
+ 1686  ls
+ 1687  subl .
+ 1688  bundle install
+ 1689  rails generate devise:install
+ 1690  rails g devise:views
+ 1691  rails generate devise Admin
+ 1692  rails db:migrate
+ 1693  rails c
+ 1694  railss c
+ 1695  rails c
+ 1696  rails db
+ 1697  select * from articles;
+ 1698  select * from articles ;
+ 1699  rails db
+ 1700  gem install carrierwave
+ 1701  --skip-spring
+ 1702  skip-spring
+ 1703  --skip-spring
+ 1704  bundle
+ 1705  rails generate uploader Image
+ 1706  rails db:migrate
+ 1707  rails c
+ 1708  rails generate migration CreateAricles image:file
+ 1709  rails generate migration CreateArticles image:file
+ 1710  force
+ 1711  --force
+ 1712  rails db
+ 1713  rails db:migrate
+ 1714  bundle
+ 1715  rails db:migrate
+ 1716  rake db:migrate
+ 1717  rails c
+ 1718  rails s
+ 1719  rails c
+ 1720  rails db
+ 1721  rails s
+ 1722  cd
+ 1723  cd traning/
+ 1724  cd blog/
+ 1725  rails db
+ 1726  rails c
+ 1727  rails s
+ 1728  cd
+ 1729  cd traning/
+ 1730  cd gallery/
+ 1731  rails s
+ 1732  ls
+ 1733  cd bin
+ 1734  rails routes
+ 1735  cd
+ 1736  rails s
+ 1737  rails g model User
+ 1738  rails db:migrate
+ 1739  rails g controller users
+ 1740  rails d controller Peoples
+ 1741  rails g controller peoples
+ 1742  rails g model People
+ 1743  rails d model People
+ 1744  cd
+ 1745  cd traning/
+ 1746  ls
+ 1747  rails new gallery2
+ 1748  cd traning/
+ 1749  ;s
+ 1750  ls
+ 1751  rails new gallery
+ 1752  cd gallery/
+ 1753  ls
+ 1754  subl .
+ 1755  rails generate controller Welcome index
+ 1756  cd
+ 1757  cd traning/
+ 1758  cd gallery/
+ 1759  ls
+ 1760  rails generate controller Peoples
+ 1761  rails generate model Article title:string
+ 1762  rails d  model Article title:string
+ 1763  rails g  model People title:string
+ 1764  rails db:migrate
+ 1765  rails c
+ 1766  rails routes
+ 1767  rails s
+ 1768  cd
+ 1769  cd traning/
+ 1770  ls
+ 1771  rails new abcd
+ 1772  cd ..
+ 1773  cd blog/
+ 1774  subl .
+ 1775  cd bin
+ 1776  rails db:migrate RAILS_ENV=development
+ 1777  cd
+ 1778  ls
+ 1779  cd traning
+ 1780  rails new gallery_app
+ 1781  ls
+ 1782  cd gallery_app
+ 1783  subl .
+ 1784  rails g controller Album index
+ 1785  rails g controller Images index
+ 1786  rails generate model Album image:string
+ 1787  rails generate model Image
+ 1788  rails generate controller Welcome index
+ 1789  rails db:migrate
+ 1790  bundle
+ 1791  rails generate uploader Image
+ 1792  rails g model product name image
+ 1793  rails db:migrate
+ 1794  rails d model product name image
+ 1795  rails generate model Album image:string
+ 1796  rails d model Album
+ 1797  rails g model Albums image:string
+ 1798  rails d model Albums image:string
+ 1799  rails g model Album image:string
+ 1800  rails d controller Album
+ 1801  rails g controller Albums index
+ 1802  rails db:migrate
+ 1803  rake db:migrate
+ 1804  rake db:migrate RAILS_ENV=test
+ 1805  rails db:migrate RAILS_ENV=development
+ 1806  run: bin/rails db:migrate RAILS_ENV=development
+ 1807  rails db:migrate RAILS_ENV=development
+ 1808  rails db:migrate
+ 1809  rake db:migrate:status
+ 1810  bundle exec rake db:migrate
+ 1811  rails db:migrate
+ 1812  rails db:rollback
+ 1813  rails db:migrate
+ 1814  rails db:drop
+ 1815  rails db:create
+ 1816  rails db:migrate
+ 1817  rails c
+ 1818  rails db
+ 1819  rails generate migration AddPartNumberToImages image:string
+ 1820  rails db:migrate RAILS_ENV=development
+ 1821  subl .
+ 1822  cd traning/
+ 1823  ls
+ 1824  cd blog
+ 1825  rails s
+ 1826  cd traning/
+ 1827  cd gallery_app/
+ 1828  rails s
+ 1829  rails routes
+ 1830  rails s
+ 1831  rails routes
+ 1832  rails s
+ 1833  kill -9 $(lsof -i tcp:3000 -t)
+ 1834  rails s
+ 1835  kill -9 $(lsof -i tcp:3000 -t)
+ 1836  rails s
+ 1837  rails c
+ 1838  rails generate migration AddPartNumberToAlbums title:string
+ 1839  rails generate migration AddPartNumberToImages name:string
+ 1840  rails generate migration AddPart1NumberToImages name:string
+ 1841  rake db:migrate
+ 1842  rails generate migration AddAlbumRefToImages album:references
+ 1843  rake db:migrate
+ 1844  rails routes
+ 1845  Image.all
+ 1846  Album.all
+ 1847  rails c
+ 1848  rails routes
+ 1849  rails s
+ 1850  rails c
+ 1851  rails routes
+ 1852  rails c
+ 1853  rails db
+ 1854  images.column_names
+ 1855  rails db
+ 1856  rails c
+ 1857  al beui
+ 1858  cd traning/
+ 1859  ls
+ 1860  cd gallery_app/
+ 1861  rails c
+ 1862  cd traning/
+ 1863  cd gallery_app/
+ 1864  rails c
+ 1865  rails db
+ 1866  rails s
+ 1867  cd traning/
+ 1868  cd blog/
+ 1869  subl .
+ 1870  cd ..
+ 1871  cd gallery_app/
+ 1872  rails s
+ 1873  rails db
+ 1874  cd ..
+ 1875  cd devise_app/
+ 1876  subl .
+ 1877  rails c
+ 1878  rails db
+ 1879  rails routes
+ 1880  bundle install
+ 1881  rails generate devise:install
+ 1882  rails generate devise User
+ 1883  rails db:migrate
+ 1884  rails routes
+ 1885  rails c
+ 1886  rails db
+ 1887  rails generate migration AddUserRefToAlbums user:references
+ 1888  rails db:migrate
+ 1889  rails generate controller Users index
+ 1890  rails routes
+ 1891  rails s
+ 1892  rails routes
+ 1893  rails c
+ 1894  rails s
+ 1895  kill -9 $(lsof -i tcp:3000 -t)
+ 1896  rails s
+ 1897  rails rotes
+ 1898  rails routes
+ 1899  rails db 
+ 1900  rails s
+ 1901  rails routes
+ 1902  cd traning/
+ 1903  cd gallery_app/
+ 1904  rails s
+ 1905  kill -9 $(lsof -i tcp:3000 -t)
+ 1906  rails s
+ 1907  rails routes
+ 1908  rails c
+ 1909  rails db
+ 1910  rails db:drop
+ 1911  rails db:create
+ 1912  rails db:migrate
+ 1913  rails db
+ 1914  rails s
+ 1915  kill -9 $(lsof -i tcp:3000 -t)
+ 1916  rails s
+ 1917  kill -9 $(lsof -i tcp:3000 -t)
+ 1918  rails s
+ 1919  kill -9 $(lsof -i tcp:3000 -t)
+ 1920  rails s
+ 1921  kill -9 $(lsof -i tcp:3000 -t)
+ 1922  rails s
+ 1923  kill -9 $(lsof -i tcp:3000 -t)
+ 1924  rails ss
+ 1925  rails s
+ 1926  kill -9 $(lsof -i tcp:3000 -t)
+ 1927  rails s
+ 1928  rails db
+ 1929  rails c
+ 1930  rails db
+ 1931  cd traning/
+ 1932  cd gallery_app/
+ 1933  rails s
+ 1934  kill -9 $(lsof -i tcp:3000 -t)
+ 1935  rails s
+ 1936  kill -9 $(lsof -i tcp:3000 -t)
+ 1937  rails s
+ 1938  kill -9 $(lsof -i tcp:3000 -t)
+ 1939  rails s
+ 1940  kill -9 $(lsof -i tcp:3000 -t)
+ 1941  rails s
+ 1942  rake routes
+ 1943  rails c
+ 1944  rails db
+ 1945  cd traning/
+ 1946  cd gallery_app/
+ 1947  subl .
+ 1948  rails s
+ 1949  rails routes
+ 1950  cd traning/
+ 1951  cd gallery
+ 1952  subl .
+ 1953  cd gallery2
+ 1954  cd ..
+ 1955  cd gallery2
+ 1956  subl .
+ 1957  cd ..
+ 1958  cd not/
+ 1959  cd my\ gallery/
+ 1960  cd gallery/
+ 1961  subl .
+ 1962  cd training/
+ 1963  cd gallery_app/
+ 1964  subl .
+ 1965  cd ..
+ 1966  cd blog/
+ 1967  subl .
+ 1968  rails s
+ 1969  cd spree/
+ 1970  rails s
+ 1971  cd training/
+ 1972  ls
+ 1973  rails new spree
+ 1974  rails -v
+ 1975  cd spree/
+ 1976  subl .
+ 1977  bundle install
+ 1978  docker run --rm -it -p 3000:3000 spreecommerce/spree:latest
+ 1979  sudo apt install docker.io
+ 1980  docker run --rm -it -p 3000:3000 spreecommerce/spree:latest
+ 1981  rails g spree:install --user_class=Spree::User
+ 1982  rails g spree:install
+ 1983  docker run --rm -it -p 3000:3000 spreecommerce/spree:latest
+ 1984  rails g spree:install --user_class=Spree::User
+ 1985  bundle update
+ 1986  rails -v
+ 1987  rails g spree:install --user_class=Spree::User
+ 1988  rails g spree:auth:install
+ 1989  rails g spree_gateway:install
+ 1990  bundle exec rake db:migrate
+ 1991  bundle exec rake db:seed
+ 1992  rails c
+ 1993  rvm 
+ 1994  rvm list
+ 1995  rvm use ruby-2.5.1
+ 1996  rvm list
+ 1997  rvm create gemset arif
+ 1998  rvm create gemsets arif
+ 1999  rvm use ruby-2.5.1@proejct_1
+ 2000  rvm use ruby-2.5.1@proejct_2
+ 2001  rvm list
+ 2002  rvm list gemsets
+ 2003  rvm use ruby-2.5.1@proejct_1
+ 2004  rvm list gemsets
+ 2005  history

@@ -1,0 +1,4 @@
+https://www.rubydoc.info/gems/spree_auth_devise/1.3.1
+
+https://github.com/aarif-bluebash/spree_demo/commits/master
+
